@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: autoprice-ai-pro
+Version: 0.1.0
+Summary: Production-style Machine Learning project for used car price prediction.
+Requires-Python: >=3.10
